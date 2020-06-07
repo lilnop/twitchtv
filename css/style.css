@@ -1,0 +1,56 @@
+body{
+  background-color:#772f91;
+  color:white;
+  width: 100%;
+}
+#twitch{
+  background:white;
+  height:95px;
+}
+.heading{
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.container{
+
+}
+.logo{
+  height:100px;
+  width:100px;
+  border-radius:50px;
+  margin:15px;
+}
+.description{
+  margin-left: 150px;
+}
+.btn {
+	padding: 10px;
+	width: 150px;
+  margin: 15px;
+  cursor: pointer;
+}
+li{
+  list-style-type:none;
+  font-size:16px;
+  border:3px solid white;
+}
+.online{
+  background:#2da325;
+}
+.offline{
+  background:#700218;
+}
+a{
+  text-decoration:none;
+  color:white;
+}
+a:hover{
+  color:white;
+}
+.none{
+  display:none;
+}
+#info {
+	width: 800px;
+	margin: 0 auto;
+}
